@@ -1,4 +1,4 @@
-Calculates macimum throughput from one data centre to the target data centres through a network of data centres by modeling the problem as a max-flow network problem solved using the ford-fulkerson method
+Calculates maximum throughput from one data centre to the target data centres through a network of data centres by modeling the problem as a max-flow network problem solved using the ford-fulkerson method
 
 The function maxThroughput(connections, maxIn, maxOut, origin, targets) that returns the maximum possible data throughput from the data centre origin to the data centres specified in targets
 Example:
