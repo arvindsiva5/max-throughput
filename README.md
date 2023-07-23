@@ -6,7 +6,7 @@ connections = [(0, 1, 3000), (1, 2, 2000), (1, 3, 1000), (0, 3, 2000), (3, 4, 20
 maxIn = [5000, 3000, 3000, 3000, 2000]\
 maxOut = [5000, 3000, 3000, 2500, 1500]\
 origin = 0\
-targets = [4, 2]\
+targets = [4, 2]
 
 \# function should return the maximum possible data throughput from the\
 \# data centre origin to the data centres specified in targets.\
