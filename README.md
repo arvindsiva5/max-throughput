@@ -11,4 +11,4 @@ targets = [4, 2]\
 function should return the maximum possible data throughput from the\
 data centre origin to the data centres specified in targets.\
 maxThroughput(connections, maxIn, maxOut, origin, targets)\
-4500
+\>> 4500
